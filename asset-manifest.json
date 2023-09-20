@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.32c83c80.css",
+    "main.js": "/myportfolio/static/js/main.3f690d91.js",
+    "static/media/newsapp.png": "/myportfolio/static/media/newsapp.281ee48e11037c3b25da.png",
+    "static/media/chatbot.png": "/myportfolio/static/media/chatbot.8f9dff511a6091ef92f1.png",
+    "static/media/pythonlogo.png": "/myportfolio/static/media/pythonlogo.7ba205b2e95f017e2da0.png",
+    "static/media/reactlogo.png": "/myportfolio/static/media/reactlogo.2b38e02ea95aeb2cc68e.png",
+    "static/media/javalogo.png": "/myportfolio/static/media/javalogo.05dc60f38c79e825f373.png",
+    "static/media/htmllogo.png": "/myportfolio/static/media/htmllogo.fd974af844a721331121.png",
+    "static/media/csslogo.png": "/myportfolio/static/media/csslogo.db2df83ac6aefb1dd4dd.png",
+    "static/media/weatherapp.png": "/myportfolio/static/media/weatherapp.2f259e0005fd4b72ba0a.png",
+    "static/media/javascriptlogo.png": "/myportfolio/static/media/javascriptlogo.44e5671435d4f59b8b08.png",
+    "static/media/bootstrap.png": "/myportfolio/static/media/bootstrap.9ae8799bc398860d27b1.png",
+    "static/media/notesapp.png": "/myportfolio/static/media/notesapp.03435c9f8d02cfd2f411.png",
+    "static/media/tailwindlogo.png": "/myportfolio/static/media/tailwindlogo.5ddb60003daadbd2e679.png",
+    "static/media/profile-pic.jpg": "/myportfolio/static/media/profile-pic.ded7e638aa3d9efb5c40.jpg",
+    "index.html": "/myportfolio/index.html",
+    "main.32c83c80.css.map": "/myportfolio/static/css/main.32c83c80.css.map",
+    "main.3f690d91.js.map": "/myportfolio/static/js/main.3f690d91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c83c80.css",
+    "static/js/main.3f690d91.js"
+  ]
+}
